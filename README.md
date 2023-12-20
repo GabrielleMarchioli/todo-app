@@ -1,6 +1,6 @@
 # TaskFlow
 
-Um aplicativo simples de lista de tarefas criado com React, CSS e HTML.
+Um aplicativo simples de lista de tarefas diárias criado com React, CSS e HTML.
 
 ## Imagem do projeto:
 
